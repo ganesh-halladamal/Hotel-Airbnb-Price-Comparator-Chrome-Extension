@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import SearchBar from './components/SearchBar';
 import PriceComparison from './components/PriceComparison';
 import FavoritesList from './components/FavoritesList';
 import Settings from './components/Settings';
